@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object5",
+  "%Name":"BackBaseBoard",
   "eventList":[],
   "managed":true,
-  "name":"Object5",
+  "name":"BackBaseBoard",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_player_right",
-    "path":"sprites/spr_player_right/spr_player_right.yy",
+    "name":"BaseBoard_top",
+    "path":"sprites/BaseBoard_top/BaseBoard_top.yy",
   },
   "spriteMaskId":null,
   "visible":true,

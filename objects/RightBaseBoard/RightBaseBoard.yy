@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall",
+  "%Name":"RightBaseBoard",
   "eventList":[],
   "managed":true,
-  "name":"obj_wall",
+  "name":"RightBaseBoard",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_wall",
-    "path":"sprites/spr_wall/spr_wall.yy",
+    "name":"RightWall",
+    "path":"sprites/RightWall/RightWall.yy",
   },
   "spriteMaskId":null,
   "visible":true,
