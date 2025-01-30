@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"FrontRightCorner",
+  "%Name":"obj_wall",
   "eventList":[],
   "managed":true,
-  "name":"FrontRightCorner",
+  "name":"obj_wall",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite15",
-    "path":"sprites/Sprite15/Sprite15.yy",
+    "name":"wall_placeholder",
+    "path":"sprites/wall_placeholder/wall_placeholder.yy",
   },
   "spriteMaskId":null,
   "visible":true,

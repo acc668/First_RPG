@@ -4,7 +4,7 @@
 xSpeed = 0;
 ySpeed = 0;
 
-moveSpeed = 1.5;
+moveSpeed = 3.0;
 
 // arrays which hold the animation macro
 sprite[RIGHT] = spr_player_right;
