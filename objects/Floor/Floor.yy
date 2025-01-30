@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Meow",
+  "%Name":"Floor",
   "eventList":[],
   "managed":true,
-  "name":"Meow",
+  "name":"Floor",
   "overriddenProperties":[],
   "parent":{
-    "name":"Game",
-    "path":"Game.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite16",
+    "path":"sprites/Sprite16/Sprite16.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
