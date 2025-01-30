@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"NewWall",
+  "%Name":"BackBaseBoard",
   "eventList":[],
   "managed":true,
-  "name":"NewWall",
+  "name":"BackBaseBoard",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite6",
-    "path":"sprites/Sprite6/Sprite6.yy",
+    "name":"BaseBoard_top",
+    "path":"sprites/BaseBoard_top/BaseBoard_top.yy",
   },
   "spriteMaskId":null,
   "visible":true,
